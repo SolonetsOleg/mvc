@@ -13,3 +13,6 @@ class Config{
     }
 
 }
+
+
+//some comment in config.class.php
